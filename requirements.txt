@@ -1,12 +1,1 @@
-fastapi==0.95.1
-uvicorn==0.22.0
-pymongo==4.3.3
-numpy==1.24.3
-pydantic==1.10.7
-requests==2.29.0
-gradio==3.30.0
-python-dotenv==1.0.0
-matplotlib==3.7.1
-pandas==2.0.1
-plotly==5.14.1
-pip install fastapi uvicorn pymongo numpy pydantic requests gradio python-dotenv matplotlib panda plotly
+pip install streamlit fastapi uvicorn pymongo numpy pydantic requests python-dotenv plotly
